@@ -1,2 +1,5 @@
 # hello-world
-First Sample Repository
+
+Hi There Everyone !
+I'm Babu, I like Android and Python thats what i'm instrested about 
+Just a Eye swallow addicted netizen
